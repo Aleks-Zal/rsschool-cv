@@ -84,4 +84,4 @@ Citizenship: *Belarus*
 
 Driver's license: *B*
 
-*I want to develop as a professional and i’m ready to work in a team of initiative people.*
+*I want to devote myself entirely to working in IT, develop as a professional and i’m ready to work in a team of initiative people.*
