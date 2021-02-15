@@ -1,0 +1,61 @@
+body {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.wrapper {
+    margin: auto;
+    width: 970px;
+    display: flex;
+    box-shadow: 0 4px 16px #ccc;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.shell-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.shell-date {
+    width: 200px;
+}
+
+.shell-discription {
+    width: 350px;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.main-wrapper {
+    padding: 30px;
+    border-right: 1px solid #efefef;
+}
+
+.contacts-wrapper {
+    width: 240px;
+    background-color: #efefef;
+    padding: 30px;
+    color: #777;
+}
+
+.title-style {
+    border: 2px solid #777;
+    text-align: center;
+}
+
+.my-photo {
+    border-radius: 50%;
+}
+
+.title-color {
+    color: #777;
+}
+
+.title-line {
+    border-bottom: 2px solid #777;
+}
