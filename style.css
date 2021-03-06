@@ -1,0 +1,110 @@
+body {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: #5a5b62;
+}
+
+.wrapper {
+    margin: auto;
+    width: 970px;
+    box-shadow: 0 4px 16px #c1c5d6;
+    background-color: #fbfcfd;
+}
+
+.flex-content {
+    display: flex;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.shell-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.shell-date {
+    width: 200px;
+}
+
+.shell-discription {
+    width: 350px;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.main-wrapper {
+    padding: 0 30px;
+    border: 1px solid #ebecf0;
+}
+
+.my-name {
+    text-align: center;
+    border: 1px solid #c1c5d6;
+    border-radius: 5px;
+    background-color: #787fa0;
+    color: #fbfcfd;
+    margin-bottom: 50px;
+}
+
+.my-spec {
+    text-align: center;
+}
+
+.contacts-wrapper {
+    width: 240px;
+    background-color: #c1c5d6;
+    padding: 30px;
+    color: #787fa0;
+}
+
+.title-style {
+    border: 2px solid #787fa0;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.my-photo {
+    width: 240px;
+    height: 240px;
+    background: url('photo.jpg') no-repeat center center;
+    background-size: cover;
+    border: 2px solid #787fa0;
+    border-radius: 50%;
+    box-shadow: 0 4px 16px #787fa0;
+}
+
+.title-color {
+    color: #787fa0;
+}
+
+.title-line {
+    border-bottom: 2px solid #c1c5d6;
+}
+
+.footer {
+    background-color: #787fa0;
+    color: #fbfcfd;
+    padding: 5px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-style {
+    text-decoration: none;
+    color: #787fa0;
+}
+
+.icon-wrapper {
+    display: flex;
+    align-self: center;
+}
+
+.icon {
+    padding: 0 10px;
+    height: 30px;
+}
+
