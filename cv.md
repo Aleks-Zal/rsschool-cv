@@ -1,6 +1,6 @@
 # ZALUTSKI ALEXANDR NICKOLAEVICH
 ## FRONTEND - DEVELOPER (JUNIOR)
-![My_photo](img/photo.jpg) 
+![My_photo](/img/photo.jpg) 
 
 >### Mogilev, Republic of Belarus 
 >### Age: 35 years
